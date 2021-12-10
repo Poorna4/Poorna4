@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Poorna4
+- 👋 Hi, I’m @Poornasree
 - 👀 I’m interested in learning new things
 - 🌱 I’m currently learning data science master program
 - 💞️ I’m looking to collaborate on machinie learning projects
